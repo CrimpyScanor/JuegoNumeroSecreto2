@@ -1,6 +1,6 @@
 var NumeroAleatorio = GenerarNumeroAleatorio();
 var Numerodeintentos = 1;
-var NumeroMaximo = 10
+var NumeroMaximo = 50
 function AsignarTextoElemento(elemento, texto)//La funcion puede recibir parametros lo que es en este caso elemento y texto 
 {
     var elementoHTML = document.querySelector(elemento); 
